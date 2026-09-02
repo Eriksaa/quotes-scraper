@@ -15,3 +15,7 @@ Alur Kerja
 2. Penyimpanan: Menyimpan hasil ekstraksi ke dalam format tabular `quotes_dataset.csv`.
 3. Pembersihan: Menangani *missing values* (nilai kosong) pada kolom *tags* agar siap dianalisis.
 4. Visualisasi: Menghasilkan *bar chart* untuk melihat peringkat penulis dengan kutipan terbanyak.
+
+# Dashboard Web Interaktif
+Proyek ini telah dikembangkan lebih lanjut menjadi aplikasi web menggunakan `Streamlit`. 
+Pengguna dapat memfilter kutipan berdasarkan nama penulis secara dinamis dan melihat visualisasi data langsung di dalam antarmuka web.
